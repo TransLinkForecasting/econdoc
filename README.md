@@ -5,11 +5,11 @@
 
 This is a mkdocs-generated documentation for the Regional Transportation Model (RTM) by TransLink Forecasting. This repository has been set up with travis ci and readthedoc for automated deployment.
 
-Please visit the documentation on [github.io](https://translinkforecasting.github.io/rtmdoc) or [readthedoc](https://rtm.readthedocs.io).
+Please visit the documentation on [github.io](https://translinkforecasting.github.io/econdoc) or [readthedoc](https://rtm-econdoc.readthedocs.io).
 
 ## Getting Started
 
-As **rtmdoc** collaborators, you are invited to contribute to the documentation for RTM. This documentation is compiled using [mkdocs](https://www.mkdocs.org/).
+As **econdoc** collaborators, you are invited to contribute to the economic analysis documentation for the RTM. This documentation is compiled using [mkdocs](https://www.mkdocs.org/).
 
 Follow the steps below create or update mkdocs-generated html:
 
